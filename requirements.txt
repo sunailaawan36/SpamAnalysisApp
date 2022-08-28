@@ -1,4 +1,3 @@
-matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
 nltk @ file:///opt/conda/conda-bld/nltk_1645628263994/work
 numpy @ file:///C:/ci/numpy_and_numpy_base_1653574844560/work
 numpydoc @ file:///C:/Windows/TEMP/abs_30799058-86dd-4401-b621-d172137a4d87_ra3twm7/croots/recipe/numpydoc_1657529873713/work
