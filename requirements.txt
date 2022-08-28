@@ -3,8 +3,8 @@ collections
 matplotlib
 numpy 
 pandas
-Pillow==9.2.0
+PIL
 seaborn
-streamlit==1.12.0
-wordcloud==1.8.2.2
+streamlit
+wordcloud
 string
