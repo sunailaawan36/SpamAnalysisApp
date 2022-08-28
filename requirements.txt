@@ -2,7 +2,6 @@ nltk
 matplotlib
 numpy 
 pandas
-PIL
 seaborn
 streamlit
 wordcloud
