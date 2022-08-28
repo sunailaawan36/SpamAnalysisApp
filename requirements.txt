@@ -1,0 +1,24 @@
+matplotlib @ file:///C:/ci/matplotlib-suite_1647423638658/work
+matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
+nltk @ file:///opt/conda/conda-bld/nltk_1645628263994/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1653574844560/work
+numpydoc @ file:///C:/Windows/TEMP/abs_30799058-86dd-4401-b621-d172137a4d87_ra3twm7/croots/recipe/numpydoc_1657529873713/work
+pandas @ file:///C:/ci/pandas_1657532024991/work
+Pillow==9.2.0
+plotly @ file:///C:/ci/plotly_1658142442431/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-lsp-black @ file:///tmp/build/80754af9/python-lsp-black_1634232156041/work
+python-lsp-jsonrpc==1.0.0
+python-lsp-server @ file:///tmp/build/80754af9/python-lsp-server_1648176833691/work
+python-slugify @ file:///tmp/build/80754af9/python-slugify_1620405669636/work
+python-snappy @ file:///C:/ci/python-snappy_1610133405910/work
+pyzmq @ file:///C:/ci/pyzmq_1657615952984/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
+spacy==3.4.1
+spacy-legacy==3.0.10
+spacy-loggers==1.0.3
+spyder @ file:///C:/Windows/TEMP/abs_66k5aq_mkw/croots/recipe/spyder_1659599805372/work
+spyder-kernels @ file:///C:/ci/spyder-kernels_1647011408404/work
+streamlit==1.12.0
+Unidecode @ file:///tmp/build/80754af9/unidecode_1614712377438/work
+wordcloud==1.8.2.2
