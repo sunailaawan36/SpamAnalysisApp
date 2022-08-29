@@ -20,7 +20,7 @@ from nltk.corpus import wordnet
 from nltk.stem import WordNetLemmatizer
 
 # reading dataset
-data = pd.read_csv('C:/Users/Sunaila Awan/Downloads/Karachi AI/Python/final project/SMS_data.csv', encoding= 'unicode_escape')
+data = pd.read_csv('SMS_data.csv', encoding= 'unicode_escape')
 
 # changing dates to datetime objects
 data['Date_Received'] = pd.to_datetime(data['Date_Received'])
