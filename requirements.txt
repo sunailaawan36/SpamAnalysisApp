@@ -5,7 +5,3 @@ pandas
 seaborn
 streamlit
 wordcloud
-nltk.download('wordnet')
-nltk.download('omw-1.4')
-nltk.download('averaged_perceptron_tagger')
-nltk.download('stopwords')
